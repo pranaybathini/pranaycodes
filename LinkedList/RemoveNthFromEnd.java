@@ -9,6 +9,28 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+//count approach
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        int total = 0;
+        ListNode curr = head; 
+        while(curr!=null){
+            curr=curr.next;
+            ++total;
+        }
+        curr = head;
+        int target = total-n;
+        int count=0;
+        while(count<target){
+            ++count;
+            curr = curr.next;
+        }
+        if(target>0){
+             curr.next = curr.next.next;
+            return head;
+        }
+        return head.next;
+    }
+
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if(head.next == null && n==1){
