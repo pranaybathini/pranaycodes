@@ -29,4 +29,20 @@ class Solution {
         root.left = null;
         prev = root;
     }
+    
+       //O(N) - Time, O(1) Space
+        public void flatten(TreeNode curr) {
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode left = curr.left;
+                while(left.right!=null){
+                    left = left.right;
+                }
+                left.right = curr.right;
+                curr.right = curr.left;
+                curr.left = null;
+            }
+            curr = curr.right;
+        }
+    }
 }
