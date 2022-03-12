@@ -1,3 +1,5 @@
+public boolean check(ArrayList<ArrayList<Integer>> adj, int v){
+
 boolean vis[] = new boolean[v];
     Arrays.fill(vis,false);
   
