@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/maximum-product-subarray/
 class Solution {
     public int maxProduct(int[] nums) {
         int p1 = nums[0], p2 = nums[0], res = nums[0];
