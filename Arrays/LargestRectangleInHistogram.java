@@ -54,3 +54,29 @@ public static int largestRectangleArea(int[] heights) {
         return maxA;
 
     }
+
+
+//Single Pass - pop when curr elt is less than top of stack
+// push when curr elt is greater than top
+//so when popped, we are sure top of the stack and current elt is lesser than popped elt
+//so our width is (curr-1)-st.peek()
+
+ static int largestRectangleArea(int histo[]) {
+        Stack < Integer > st = new Stack < > ();
+        int maxA = 0;
+        int n = histo.length;
+        for (int i = 0; i <= n; i++) {
+            while (!st.empty() && (i == n || histo[st.peek()] >= histo[i])) {
+                int height = histo[st.peek()];
+                st.pop();
+                int width;
+                if (st.empty())
+                    width = i;
+                else
+                    width = i - st.peek() - 1;
+                maxA = Math.max(maxA, width * height);
+            }
+            st.push(i);
+        }
+        return maxA;
+    }
