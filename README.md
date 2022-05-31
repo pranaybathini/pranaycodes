@@ -1,4 +1,4 @@
-# Journey of a wizard
+# The Witcher's ToolKit
 
 * [Java Syntax for DS](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)
 * [Hacks you cannot ignore as a coder](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
