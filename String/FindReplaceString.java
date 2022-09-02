@@ -1,4 +1,8 @@
-//https://leetcode.com/problems/find-and-replace-in-string/
+//Problem - https://leetcode.com/problems/find-and-replace-in-string/
+
+import java.util.HashMap;
+import java.util.Map;
+
 class FindReplaceString {
     public String findReplaceString(String s, int[] indices, String[] sources, String[] targets) {
         Map<Integer,Integer> map = new HashMap<>();

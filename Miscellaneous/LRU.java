@@ -2,12 +2,12 @@ import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.LinkedList;
 
-public class GenericCache {
+public class LRU {
 
     LinkedHashSet<Integer> cache = null;
     private final int capacity;
 
-    public GenericCache(int capacity) {
+    public LRU(int capacity) {
         this.cache = new LinkedHashSet<>(capacity);
         this.capacity = capacity;
     }
@@ -31,7 +31,7 @@ public class GenericCache {
     }
 
     public static void main(String[] args) {
-        GenericCache ca = new GenericCache(4);
+        LRU ca = new LRU(4);
         ca.refer(1);
         ca.refer(2);
         ca.refer(3);

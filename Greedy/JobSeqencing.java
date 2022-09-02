@@ -1,4 +1,4 @@
-// { Driver Code Starts
+
 import java.io.*;
 import java.lang.*;
 import java.util.*;
@@ -31,7 +31,7 @@ class GfG {
                 arr[i] = new Job(Integer.parseInt(inputLine[k++]), Integer.parseInt(inputLine[k++]), Integer.parseInt(inputLine[k++]));
             }
             
-            Solution ob = new Solution();
+            LongestPalindromicSubString ob = new LongestPalindromicSubString();
             
             //function call
             int[] res = ob.JobScheduling(arr, n);

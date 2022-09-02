@@ -15,7 +15,7 @@ class GFG
 			for(int i = 0; i < N ; i++){
 			    arr.add(sc.nextInt());
 			}
-            Solution ob = new Solution();
+            LongestPalindromicSubString ob = new LongestPalindromicSubString();
          
             ArrayList<Integer> ans = ob.subsetSums(arr,N);
             Collections.sort(ans);

@@ -1,5 +1,6 @@
-//https://leetcode.com/problems/longest-palindromic-substring/
-class Solution {
+// Problem - https://leetcode.com/problems/longest-palindromic-substring/
+
+class LongestPalindromicSubString {
     public String longestPalindrome(String s) {
         int max=0, idx=0;
         int len = s.length();

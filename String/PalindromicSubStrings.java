@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/palindromic-substrings/
-class Solution {
+class PalindromicSubStrings {
     public int countSubstrings(String s) {
         int count = 0;
         for(int i=0;i<s.length();i++){

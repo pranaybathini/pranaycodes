@@ -1,3 +1,5 @@
+package Construct;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -58,7 +60,7 @@ public class Codec {
     }
 }
 
-// Your Codec object will be instantiated and called as such:
-// Codec ser = new Codec();
-// Codec deser = new Codec();
+// Your Construct.Codec object will be instantiated and called as such:
+// Construct.Codec ser = new Construct.Codec();
+// Construct.Codec deser = new Construct.Codec();
 // TreeNode ans = deser.deserialize(ser.serialize(root));
