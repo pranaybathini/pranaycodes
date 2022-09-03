@@ -35,7 +35,7 @@ Name | Link | Videos
 
 Name | Link | Videos 
 | :---:   | :-: | :-: |
-|Refacting.guru Design Patterns| [All Design Patters](https://refactoring.guru/design-patterns)|-|
+|Refacting.guru Design Patterns| [All Design Patterns](https://refactoring.guru/design-patterns)|-|
 |Design Patterns|[Head First Design Patterns](https://github.com/ksatria/MK-Design-Pattern/blob/master/Ebook/Head%20First%20Design%20Patterns.pdf)|[Youtube - Christopher Okhravi](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)|
 
 #
