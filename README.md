@@ -58,7 +58,7 @@ Name | Link | Videos
 Name | Link |  
 | :---:   | :-: | 
 |Time Complexity Cheatsheet - Big O Cheatsheet | [Big O Cheatsheet](https://www.bigocheatsheet.com/)
-
+|All Data Structures Time Complexity| [All DS Time Complexity](https://github.com/pranaybathini/pranaycodes/blob/main/pdfs-for-freshers/TimeComplexity_1.pdf)
 
 
 #
