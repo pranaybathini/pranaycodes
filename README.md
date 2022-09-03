@@ -44,6 +44,12 @@ Name | Link | Videos
 Name | Link | Videos 
 | :---:   | :-: | :-: |
 |Java Data Structure Mostly used Syntax LeetCode - Helpful|[Java Syntax for DS](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)|-|
+|Java Concurrency | [Jenkov Tutorials](https://jenkov.com/tutorials/java-concurrency/race-conditions-and-critical-sections.html)| - |
+|HashMap Internal Working | [HashMap Internal Working](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)|-|
+|LRU(Least Recently Used)Cache LeetCode | [LRU LeetCode](https://leetcode.com/problems/lru-cache/discuss/45939/Laziest-implementation%3A-Java's-LinkedHashMap-takes-care-of-everything) |-|
+|LFU(Least Frequently Used) Cache LeetCode|[LFU](https://leetcode.com/problems/lfu-cache/discuss/94521/JAVA-O(1)-very-easy-solution-using-3-HashMaps-and-LinkedHashSet)|-|
+|Print Odd Even using 2 Threads | [Odd Even Multithreading](https://www.pranaybathini.com/2021/12/even-odd-using-multithreading.html) | - |
+|Print 1,2,3 series using 3 threads | [3 threads multithreading](https://www.pranaybathini.com/2022/01/print-123-using-three-threads-in-java.html) | -|
 
 #
 # Time Complexity Cheat Sheet
