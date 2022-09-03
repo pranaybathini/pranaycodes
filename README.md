@@ -1,6 +1,6 @@
 # The Witcher's Journey
 
-Welcome Witcher. Find the right toolkit to slay the monsters.
+Welcome Witcher. Find the right toolkit to slay the Job monsters.
 
 #
 ## Data Structures and Algorithms
