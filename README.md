@@ -21,6 +21,7 @@ Name | Link | Videos
 | Concepts & Problems - Grokking the System Design Interview | [Grokking HLD](https://akshay-iyangar.github.io/system-design/)|-|
 |System Design Book |[Book](https://drive.google.com/file/d/1sGNx-8cxU_e9wi4SEoDq-mPdNoyFqmJA/view?usp=sharing)|-|
 |Gaurav Sen YT - System Design Basics|-|[System Design Basics YT](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)|
+|System Design Interview|[System Design Interview](https://github.com/checkcheckzz/system-design-interview)|-|
 
 #
 # Low Level Design
