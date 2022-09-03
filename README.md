@@ -1,6 +1,6 @@
 # The Witcher's Journey
 
-Welcome Witcher. Find the right Swords and Elixirs to slay the Job monsters.
+Welcome Witcher. Find the right Swords and Elixirs to slay the Interview monsters.
 
 #
 ## Data Structures and Algorithms
