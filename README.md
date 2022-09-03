@@ -54,7 +54,9 @@ Name | Link | Videos
 #
 # Time Complexity Cheat Sheet
 
-* [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+Name | Link |  
+| :---:   | :-: | 
+|Time Complexity Cheatsheet - Big O Cheatsheet | [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 
 
