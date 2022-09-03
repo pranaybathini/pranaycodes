@@ -3,7 +3,6 @@
 Welcome Witcher. Find the right toolkit to slay the monsters.
 
 #
-
 ## Data Structures and Algorithms
 
 Name | Link | Videos 
@@ -15,13 +14,13 @@ Name | Link | Videos
 |GFG Must Do - Helpful|[GFG Must do](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)|-|
 
 #
-
 # High Level Design
 
 Name | Link | Videos 
 | :---:   | :-: | :-: |
 | Concepts & Problems - Grokking the System Design Interview | [Grokking HLD](https://akshay-iyangar.github.io/system-design/)|-|
 |System Design Book |[Book](https://drive.google.com/file/d/1sGNx-8cxU_e9wi4SEoDq-mPdNoyFqmJA/view?usp=sharing)|-|
+|Gaurav Sen YT - System Design Basics|-|[System Design Basics YT](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)|
 
 #
 # Low Level Design
@@ -32,7 +31,14 @@ Name | Link | Videos
 |LLD Primer| [LLD Primer Github](https://github.com/prasadgujar/low-level-design-primer) | - |
 
 #
+# Design Patterns
 
+Name | Link | Videos 
+| :---:   | :-: | :-: |
+|Refacting.guru Design Patterns| [All Design Patters](https://refactoring.guru/design-patterns)|-|
+|Design Patterns|[Head First Design Patterns](https://github.com/ksatria/MK-Design-Pattern/blob/master/Ebook/Head%20First%20Design%20Patterns.pdf)|[Youtube - Christopher Okhravi](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)|
+
+#
 # Java
 
 Name | Link | Videos 
@@ -40,13 +46,11 @@ Name | Link | Videos
 |Java Data Structure Mostly used Syntax LeetCode - Helpful|[Java Syntax for DS](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)|-|
 
 #
-
 # Time Complexity Cheat Sheet
 
 * [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 #
-
 # Books
 
 * [CTCI Leetcode](https://leetcode.com/discuss/general-discussion/1152824/Cracking-The-Coding-Interview-6th-Edition-In-LeetCode)
