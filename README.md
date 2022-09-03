@@ -7,7 +7,7 @@ Welcome Witcher. Find the right Swords and Elixirs to slay the Job monsters.
 
 Name | Link | Videos 
 | :---:   | :-: | :-: 
-|Blind 75 Questions LeetCode - Must Do |[Blind 75 Leetcode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)|[Blind 75 NeetCode](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
+|Blind 75 Questions LeetCode - Must Do |[Blind 75 Leetcode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)|[Blind 75 NeetCode](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf){:target="_blank"}
 |Striver SDE Sheet - Must Do|[SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)| [Take you forward YT](https://www.youtube.com/c/takeUforward/playlists)
 |Grind 75 Questions - Helpful|[Grind 75](https://www.techinterviewhandbook.org/grind75)| - |
 |Striver DP Series - Must Do| [DP Series](https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/) |[DP Youtube](https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=1&t=0s)|
