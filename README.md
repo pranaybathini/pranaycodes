@@ -56,9 +56,11 @@ Name | Link | Videos
 * [CTCI Leetcode](https://leetcode.com/discuss/general-discussion/1152824/Cracking-The-Coding-Interview-6th-Edition-In-LeetCode)
 
 #
-
 # Extras
 
 * [Hacks you cannot ignore as a coder](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
 * [Some Leetcode Threads](https://leetcode.com/discuss/general-discussion/1144555/LeetCode's-Pick...-extended!)
 * [SubString Problems Template](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
+* [Repeatedly Asked Microsoft Onsite Questions | DS + LLD + HLD](https://leetcode.com/discuss/general-discussion/1893215/repeatedly-asked-microsoft-onsite-questions-ds-lld-hld)
+* [System Design Interview Topics](https://serhatgiydiren.github.io/system-design-inteview-topics)
+* [DS in Pictures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
