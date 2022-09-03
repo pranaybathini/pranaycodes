@@ -50,14 +50,12 @@ Name | Link | Videos
 
 * [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
-#
-# Books
 
-* [CTCI Leetcode](https://leetcode.com/discuss/general-discussion/1152824/Cracking-The-Coding-Interview-6th-Edition-In-LeetCode)
 
 #
 # Extras
 
+* [CTCI Leetcode Problems](https://leetcode.com/discuss/general-discussion/1152824/Cracking-The-Coding-Interview-6th-Edition-In-LeetCode)
 * [Hacks you cannot ignore as a coder](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
 * [Some Leetcode Threads](https://leetcode.com/discuss/general-discussion/1144555/LeetCode's-Pick...-extended!)
 * [SubString Problems Template](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
