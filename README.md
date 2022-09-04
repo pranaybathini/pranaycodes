@@ -30,6 +30,10 @@ Name | Link | Videos
 | :---:   | :-: | :-: |
 | Concepts & Problems - Grokking the OOD Interview | [Grokking HLD](https://akshay-iyangar.github.io/system-design/)|-|
 |LLD Primer| [LLD Primer Github](https://github.com/prasadgujar/low-level-design-primer) | - |
+|Elevator Design | [Elevator Design](https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html)|-|
+|Vending Machine | [Vending Machine](https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-java.html)|-|
+|Splitwise | [Splitwise](https://workat.tech/machine-coding/editorial/how-to-design-splitwise-machine-coding-ayvnfo1tfst6)|-|
+
 
 #
 # Design Patterns
