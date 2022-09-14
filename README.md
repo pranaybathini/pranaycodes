@@ -65,7 +65,7 @@ Name | Link |
 |All Data Structures Time Complexity| [All DS Time Complexity](https://github.com/pranaybathini/pranaycodes/blob/main/pdfs-for-freshers/TimeComplexity_1.pdf)
 
 #
-#Negotiation 101
+# Negotiation 101
 * [Salary Negotiation 101](https://leetcode.com/discuss/career/2462102/salary-negotiation-101)
 
 #
